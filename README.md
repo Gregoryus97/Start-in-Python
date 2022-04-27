@@ -1,2 +1,2 @@
 # Start-in-Python
-this is my Road
+Training in Udemy, course: "Python Total, avanced developer in 16º days"
